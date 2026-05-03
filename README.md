@@ -6,8 +6,8 @@
 
 [![AZ-400 Certified](https://img.shields.io/badge/Microsoft-AZ--400%20Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
 [![Study Notes](https://img.shields.io/badge/Study%20Notes-9%2C000%2B%20Lines-success?style=for-the-badge&logo=markdown)](.)
-[![Dump Questions](https://img.shields.io/badge/Dump%20Questions-6000%2B-orange?style=for-the-badge&logo=bookstack)](practise_exam_questions/)
-[![Last Updated](https://img.shields.io/badge/Dumps%20Updated-2026-blue?style=for-the-badge)](practise_exam_questions/)
+[![Dump Questions](https://img.shields.io/badge/Dump%20Questions-6000%2B-orange?style=for-the-badge&logo=bookstack)](dump_questions/)
+[![Last Updated](https://img.shields.io/badge/Dumps%20Updated-2026-blue?style=for-the-badge)](dump_questions/)
 
 <br/>
 
@@ -66,7 +66,7 @@ Most study guides are either too shallow or too long to revise quickly before th
 | [06-design-implement-dependency-management-strategy.md](06-design-implement-dependency-management-strategy.md) | Azure Artifacts, NuGet, npm, versioning strategies, GitHub Packages |
 | [07-implement-continuous-feedback.md](07-implement-continuous-feedback.md) | Azure Monitor, Application Insights, dashboards, alerting, blameless retrospectives |
 | [08-implement-security-validate-code-bases-compliance.md](08-implement-security-validate-code-bases-compliance.md) | DevSecOps, SCA, SAST/DAST, Defender for DevOps, compliance scanning |
-| [practise_exam_questions/](practise_exam_questions/) | 21 real exam dump PDFs, 6,000+ questions (2025–2026) |
+| [dump_questions/](dump_questions/) | 21 real exam dump PDFs, 6,000+ questions (2025–2026) |
 
 ---
 
@@ -231,7 +231,7 @@ The AZ-400 exam tests five functional domains. Here's the official weight and wh
 
 ## Dump Questions — Real Exam Questions
 
-**Folder:** [practise_exam_questions/](practise_exam_questions/)
+**Folder:** [dump_questions/](dump_questions/)
 
 > These are **real AZ-400 exam questions** that have appeared in the actual Microsoft certification exam, aggregated from across the internet. All files are dated 2025–2026 and reflect the current live exam version.
 
@@ -271,7 +271,7 @@ Actually build things: create an Azure DevOps organisation on a free trial, run 
 
 **Week 4 — Dumps + Final Revision**
 
-Work through the real exam questions in [practise_exam_questions/](practise_exam_questions/):
+Work through the real exam questions in [dump_questions/](dump_questions/):
 
 - Do 60–80 questions per session in timed conditions
 - For every wrong answer, go back to the relevant module in the notes and re-read it
@@ -315,7 +315,7 @@ Final revision before exam day:
 Found a mistake, a stale fact, or a missing topic? Pull requests are welcome.
 
 - Fix typos or outdated information — open a PR directly
-- Add newly released dump files to [practise_exam_questions/](practise_exam_questions/)
+- Add newly released dump files to [dump_questions/](dump_questions/)
 
 If these notes helped you pass, **please star the repo** — it helps others find it when they search for AZ-400 study materials.
 
